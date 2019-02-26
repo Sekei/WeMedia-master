@@ -1,17 +1,10 @@
 
 <h1>微娱乐APP</h1>
 <h2>新闻 、应用下载、直播、抖音小视频</h2>
+![image](https://github.com/Sekei/WeMedia-master/blob/master/imags/ic_launcher.png)
 
 项目采用
   mvp + retrofit 2.0 + rxjava 2 + okdownload +glide 4.x + PL播放器 + Butterknife 等框架做的android客户端。
-
-
-
-
-主要功能有：新闻 、应用下载、直播、抖音小视频，功能算是比较完善了。
-
-
-
 
 
 数据来源：IdataApi  网站 ： www.idataapi.cn
