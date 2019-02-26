@@ -1,4 +1,7 @@
-# WeMedia
+
+<h1>微娱乐APP</h1>
+<h2>新闻 、应用下载、直播、抖音小视频</h2>
+
 项目采用
   mvp + retrofit 2.0 + rxjava 2 + okdownload +glide 4.x + PL播放器 + Butterknife 等框架做的android客户端。
 
@@ -34,7 +37,6 @@ key自己上去注册账户密码，并添加以下接口：
  
  效果：
  
- ![image](https://github.com/laiweifeng/WeMedia/blob/master/screenPicture/20181214_114043.gif)
  ![image](https://github.com/laiweifeng/WeMedia/blob/master/screenPicture/20181214_114146.gif)
  ![image](https://github.com/laiweifeng/WeMedia/blob/master/screenPicture/20181214_114313.gif)
  ![image](https://github.com/laiweifeng/WeMedia/blob/master/screenPicture/20181214_114330.gif)
